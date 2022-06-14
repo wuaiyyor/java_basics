@@ -2,7 +2,7 @@ package com.wuaiyy.p1.ifdemo;
 
 import java.util.Scanner;
 
-public class IfDemo01 {
+public class IfDemo05 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("请输入时：");

@@ -1,4 +1,4 @@
-package p2.ifdemo;
+package com.wuaiyy.p1.ifdemo;
 
 import java.util.Scanner;
 
